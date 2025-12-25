@@ -3,7 +3,7 @@ Welcome to my first project which I have made with HTML, CSS and JS!
 This is a mood tracker website, made to track your mood and also collects your reviews.
 
 LINK:
-https://11deybishal-commits.github.io/webdev/
+https://11deybishal-commits.github.io/LifeMirror/
 
 🧠 Mood Tracker Website:
 📌 Overview
